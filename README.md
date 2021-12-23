@@ -1,7 +1,6 @@
 **FileServer spring boot application**
 
 Hello team!
-- Thank you for such good practical assignment. 
 
 FileServer, a file storage service, similar to Dropbox or Google Drive. 
 Basic functionality of FileServer includes uploading a file, navigating the file tree and downloading a file. 
