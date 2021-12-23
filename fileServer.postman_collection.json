@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "22a35c0f-3f6b-4d80-b5ec-1b72d7b3fbd3",
-		"name": "cybernetica",
+		"name": "fileServer",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
